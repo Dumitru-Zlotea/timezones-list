@@ -1,606 +1,606 @@
 [
     {
-        "label": "International Date Line West (UTC-12:00)",
+        "label": "Etc/GMT+12 (UTC-12:00)",
         "tzCode": "Etc/GMT+12",
         "name": "(UTC-12:00) International Date Line West",
         "utc": "-12:00"
     },
     {
-        "label": "Coordinated Universal Time-11 (UTC-11:00)",
+        "label": "Etc/GMT+11 (UTC-11:00)",
         "tzCode": "Etc/GMT+11",
         "name": "(UTC-11:00) Coordinated Universal Time-11",
         "utc": "-11:00"
     },
     {
-        "label": "Hawaii (UTC-10:00)",
+        "label": "Etc/GMT+10 (UTC-10:00)",
         "tzCode": "Etc/GMT+10",
         "name": "(UTC-10:00) Hawaii",
         "utc": "-10:00"
     },
     {
-        "label": "Alaska (UTC-09:00)",
+        "label": "America/Anchorage (UTC-09:00)",
         "tzCode": "America/Anchorage",
         "name": "(UTC-09:00) Alaska",
         "utc": "-09:00"
     },
     {
-        "label": "Baja California (UTC-08:00)",
+        "label": "America/Santa_Isabel (UTC-08:00)",
         "tzCode": "America/Santa_Isabel",
         "name": "(UTC-08:00) Baja California",
         "utc": "-08:00"
     },
     {
-        "label": "Pacific Standard Time (US & Canada) (UTC-08:00)",
+        "label": "America/Los_Angeles (UTC-08:00)",
         "tzCode": "America/Los_Angeles",
         "name": "(UTC-08:00) Pacific Standard Time (US & Canada)",
         "utc": "-08:00"
     },
     {
-        "label": "Arizona (UTC-07:00)",
+        "label": "America/Creston (UTC-07:00)",
         "tzCode": "America/Creston",
         "name": "(UTC-07:00) Arizona",
         "utc": "-07:00"
     },
     {
-        "label": "Chihuahua, La Paz, Mazatlan (UTC-07:00)",
+        "label": "America/Chihuahua (UTC-07:00)",
         "tzCode": "America/Chihuahua",
         "name": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
         "utc": "-07:00"
     },
     {
-        "label": "Mountain Time (US & Canada) (UTC-07:00)",
+        "label": "America/Boise (UTC-07:00)",
         "tzCode": "America/Boise",
         "name": "(UTC-07:00) Mountain Time (US & Canada)",
         "utc": "-07:00"
     },
     {
-        "label": "Central America (UTC-06:00)",
+        "label": "America/Belize (UTC-06:00)",
         "tzCode": "America/Belize",
         "name": "(UTC-06:00) Central America",
         "utc": "-06:00"
     },
     {
-        "label": "Central Time (US & Canada) (UTC-06:00)",
+        "label": "America/Chicago (UTC-06:00)",
         "tzCode": "America/Chicago",
         "name": "(UTC-06:00) Central Time (US & Canada)",
         "utc": "-06:00"
     },
     {
-        "label": "Guadalajara, Mexico City, Monterrey (UTC-06:00)",
+        "label": "America/Bahia_Banderas (UTC-06:00)",
         "tzCode": "America/Bahia_Banderas",
         "name": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
         "utc": "-06:00"
     },
     {
-        "label": "Saskatchewan (UTC-06:00)",
+        "label": "America/Regina (UTC-06:00)",
         "tzCode": "America/Regina",
         "name": "(UTC-06:00) Saskatchewan",
         "utc": "-06:00"
     },
     {
-        "label": "Bogota, Lima, Quito (UTC-05:00)",
+        "label": "America/Bogota (UTC-05:00)",
         "tzCode": "America/Bogota",
         "name": "(UTC-05:00) Bogota, Lima, Quito",
         "utc": "-05:00"
     },
     {
-        "label": "Eastern Time (US & Canada) (UTC-05:00)",
+        "label": "America/Montreal (UTC-05:00)",
         "tzCode": "America/Montreal",
         "name": "(UTC-05:00) Eastern Time (US & Canada)",
         "utc": "-05:00"
     },
     {
-        "label": "Indiana (East) (UTC-05:00)",
+        "label": "America/Indiana/Marengo (UTC-05:00)",
         "tzCode": "America/Indiana/Marengo",
         "name": "(UTC-05:00) Indiana (East)",
         "utc": "-05:00"
     },
     {
-        "label": "Asuncion (UTC-04:00)",
+        "label": "America/Asuncion (UTC-04:00)",
         "tzCode": "America/Asuncion",
         "name": "(UTC-04:00) Asuncion",
         "utc": "-04:00"
     },
     {
-        "label": "Atlantic Time (Canada) (UTC-04:00)",
+        "label": "America/Glace_Bay (UTC-04:00)",
         "tzCode": "America/Glace_Bay",
         "name": "(UTC-04:00) Atlantic Time (Canada)",
         "utc": "-04:00"
     },
     {
-        "label": "Caracas (UTC-04:00)",
+        "label": "America/Caracas (UTC-04:00)",
         "tzCode": "America/Caracas",
         "name": "(UTC-04:00) Caracas",
         "utc": "-04:00"
     },
     {
-        "label": "Cuiaba (UTC-04:00)",
+        "label": "America/Campo_Grande (UTC-04:00)",
         "tzCode": "America/Campo_Grande",
         "name": "(UTC-04:00) Cuiaba",
         "utc": "-04:00"
     },
     {
-        "label": "Georgetown, La Paz, Manaus, San Juan (UTC-04:00)",
+        "label": "America/Anguilla (UTC-04:00)",
         "tzCode": "America/Anguilla",
         "name": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
         "utc": "-04:00"
     },
     {
-        "label": "Santiago (UTC-04:00)",
+        "label": "America/Santiago (UTC-04:00)",
         "tzCode": "America/Santiago",
         "name": "(UTC-04:00) Santiago",
         "utc": "-04:00"
     },
     {
-        "label": "Newfoundland (UTC-03:30)",
+        "label": "America/St_Johns (UTC-03:30)",
         "tzCode": "America/St_Johns",
         "name": "(UTC-03:30) Newfoundland",
         "utc": "-03:30"
     },
     {
-        "label": "Brasilia (UTC-03:00)",
+        "label": "America/Sao_Paulo (UTC-03:00)",
         "tzCode": "America/Sao_Paulo",
         "name": "(UTC-03:00) Brasilia",
         "utc": "-03:00"
     },
     {
-        "label": "Buenos Aires (UTC-03:00)",
+        "label": "America/Argentina/Buenos_Aires (UTC-03:00)",
         "tzCode": "America/Argentina/Buenos_Aires",
         "name": "(UTC-03:00) Buenos Aires",
         "utc": "-03:00"
     },
     {
-        "label": "Cayenne, Fortaleza (UTC-03:00)",
+        "label": "America/Araguaina (UTC-03:00)",
         "tzCode": "America/Araguaina",
         "name": "(UTC-03:00) Cayenne, Fortaleza",
         "utc": "-03:00"
     },
     {
-        "label": "Montevideo (UTC-03:00)",
+        "label": "America/Montevideo (UTC-03:00)",
         "tzCode": "America/Montevideo",
         "name": "(UTC-03:00) Montevideo",
         "utc": "-03:00"
     },
     {
-        "label": "Salvador (UTC-03:00)",
+        "label": "America/Bahia (UTC-03:00)",
         "tzCode": "America/Bahia",
         "name": "(UTC-03:00) Salvador",
         "utc": "-03:00"
     },
     {
-        "label": "Coordinated Universal Time-02 (UTC-02:00)",
+        "label": "America/Noronha (UTC-02:00)",
         "tzCode": "America/Noronha",
         "name": "(UTC-02:00) Coordinated Universal Time-02",
         "utc": "-02:00"
     },
     {
-        "label": "Greenland (UTC-02:00)",
+        "label": "America/Godthab (UTC-02:00)",
         "tzCode": "America/Godthab",
         "name": "(UTC-02:00) Greenland",
         "utc": "-02:00"
     },
     {
-        "label": "Azores (UTC-01:00)",
+        "label": "America/Scoresbysund (UTC-01:00)",
         "tzCode": "America/Scoresbysund",
         "name": "(UTC-01:00) Azores",
         "utc": "-01:00"
     },
     {
-        "label": "Cape Verde Is. (UTC-01:00)",
+        "label": "Atlantic/Cape_Verde (UTC-01:00)",
         "tzCode": "Atlantic/Cape_Verde",
         "name": "(UTC-01:00) Cape Verde Is.",
         "utc": "-01:00"
     },
     {
-        "label": "(UTC) Coordinated Universal Time (UTC+00:00)",
+        "label": "America/Danmarkshavn (UTC+00:00)",
         "tzCode": "America/Danmarkshavn",
         "name": "(UTC) Coordinated Universal Time",
         "utc": "+00:00"
     },
     {
-        "label": "Dublin, Edinburgh, Lisbon, London (UTC+00:00)",
+        "label": "Europe/Isle_of_Man (UTC+00:00)",
         "tzCode": "Europe/Isle_of_Man",
         "name": "(UTC+00:00) Dublin, Edinburgh, Lisbon, London",
         "utc": "+00:00"
     },
     {
-        "label": "Monrovia, Reykjavik (UTC+00:00)",
+        "label": "Africa/Abidjan (UTC+00:00)",
         "tzCode": "Africa/Abidjan",
         "name": "(UTC+00:00) Monrovia, Reykjavik",
         "utc": "+00:00"
     },
     {
-        "label": "Kathmandu (UTC+05:45)",
+        "label": "Asia/Kathmandu (UTC+05:45)",
         "tzCode": "Asia/Kathmandu",
         "name": "(UTC+05:45) Kathmandu",
         "utc": "+05:45"
     },
     {
-        "label": "Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna (UTC+01:00)",
+        "label": "Arctic/Longyearbyen (UTC+01:00)",
         "tzCode": "Arctic/Longyearbyen",
         "name": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
         "utc": "+01:00"
     },
     {
-        "label": "Belgrade, Bratislava, Budapest, Ljubljana, Prague (UTC+01:00)",
+        "label": "Europe/Belgrade (UTC+01:00)",
         "tzCode": "Europe/Belgrade",
         "name": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
         "utc": "+01:00"
     },
     {
-        "label": "Brussels, Copenhagen, Madrid, Paris (UTC+01:00)",
+        "label": "Africa/Ceuta (UTC+01:00)",
         "tzCode": "Africa/Ceuta",
         "name": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
         "utc": "+01:00"
     },
     {
-        "label": "Casablanca (UTC+01:00)",
+        "label": "Africa/Casablanca (UTC+01:00)",
         "tzCode": "Africa/Casablanca",
         "name": "(UTC+01:00) Casablanca",
         "utc": "+01:00"
     },
     {
-        "label": "Sarajevo, Skopje, Warsaw, Zagreb (UTC+01:00)",
+        "label": "Europe/Sarajevo (UTC+01:00)",
         "tzCode": "Europe/Sarajevo",
         "name": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
         "utc": "+01:00"
     },
     {
-        "label": "West Central Africa (UTC+01:00)",
+        "label": "Africa/Algiers (UTC+01:00)",
         "tzCode": "Africa/Algiers",
         "name": "(UTC+01:00) West Central Africa",
         "utc": "+01:00"
     },
     {
-        "label": "Athens, Bucharest (UTC+02:00)",
+        "label": "Asia/Nicosia (UTC+02:00)",
         "tzCode": "Asia/Nicosia",
         "name": "(UTC+02:00) Athens, Bucharest",
         "utc": "+02:00"
     },
     {
-        "label": "Beirut (UTC+02:00)",
+        "label": "Asia/Beirut (UTC+02:00)",
         "tzCode": "Asia/Beirut",
         "name": "(UTC+02:00) Beirut",
         "utc": "+02:00"
     },
     {
-        "label": "Cairo (UTC+02:00)",
+        "label": "Africa/Cairo (UTC+02:00)",
         "tzCode": "Africa/Cairo",
         "name": "(UTC+02:00) Cairo",
         "utc": "+02:00"
     },
     {
-        "label": "Gaza, Hebron (UTC+02:00)",
+        "label": "Asia/Gaza (UTC+02:00)",
         "tzCode": "Asia/Gaza",
         "name": "(UTC+02:00) Gaza, Hebron",
         "utc": "+02:00"
     },
     {
-        "label": "Harare, Pretoria (UTC+02:00)",
+        "label": "Africa/Blantyre (UTC+02:00)",
         "tzCode": "Africa/Blantyre",
         "name": "(UTC+02:00) Harare, Pretoria",
         "utc": "+02:00"
     },
     {
-        "label": "Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius (UTC+02:00)",
+        "label": "Europe/Helsinki (UTC+02:00)",
         "tzCode": "Europe/Helsinki",
         "name": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
         "utc": "+02:00"
     },
     {
-        "label": "Jerusalem (UTC+02:00)",
+        "label": "Asia/Jerusalem (UTC+02:00)",
         "tzCode": "Asia/Jerusalem",
         "name": "(UTC+02:00) Jerusalem",
         "utc": "+02:00"
     },
     {
-        "label": "Kaliningrad (UTC+02:00)",
+        "label": "Europe/Kaliningrad (UTC+02:00)",
         "tzCode": "Europe/Kaliningrad",
         "name": "(UTC+02:00) Kaliningrad",
         "utc": "+02:00"
     },
     {
-        "label": "Tripoli (UTC+02:00)",
+        "label": "Africa/Tripoli (UTC+02:00)",
         "tzCode": "Africa/Tripoli",
         "name": "(UTC+02:00) Tripoli",
         "utc": "+02:00"
     },
     {
-        "label": "Amman (UTC+03:00)",
+        "label": "Asia/Amman (UTC+03:00)",
         "tzCode": "Asia/Amman",
         "name": "(UTC+03:00) Amman",
         "utc": "+03:00"
     },
     {
-        "label": "Baghdad (UTC+03:00)",
+        "label": "Asia/Baghdad (UTC+03:00)",
         "tzCode": "Asia/Baghdad",
         "name": "(UTC+03:00) Baghdad",
         "utc": "+03:00"
     },
     {
-        "label": "Istanbul (UTC+03:00)",
+        "label": "Europe/Istanbul (UTC+03:00)",
         "tzCode": "Europe/Istanbul",
         "name": "(UTC+03:00) Istanbul",
         "utc": "+03:00"
     },
     {
-        "label": "Kuwait, Riyadh (UTC+03:00)",
+        "label": "Asia/Aden (UTC+03:00)",
         "tzCode": "Asia/Aden",
         "name": "(UTC+03:00) Kuwait, Riyadh",
         "utc": "+03:00"
     },
     {
-        "label": "Moscow, St. Petersburg, Volgograd, Minsk (UTC+03:00)",
+        "label": "Europe/Kirov (UTC+03:00)",
         "tzCode": "Europe/Kirov",
         "name": "(UTC+03:00) Moscow, St. Petersburg, Volgograd, Minsk",
         "utc": "+03:00"
     },
     {
-        "label": "Nairobi (UTC+03:00)",
+        "label": "Africa/Addis_Ababa (UTC+03:00)",
         "tzCode": "Africa/Addis_Ababa",
         "name": "(UTC+03:00) Nairobi",
         "utc": "+03:00"
     },
     {
-        "label": "Tehran (UTC+03:30)",
+        "label": "Asia/Tehran (UTC+03:30)",
         "tzCode": "Asia/Tehran",
         "name": "(UTC+03:30) Tehran",
         "utc": "+03:30"
     },
     {
-        "label": "Abu Dhabi, Muscat (UTC+04:00)",
+        "label": "Asia/Dubai (UTC+04:00)",
         "tzCode": "Asia/Dubai",
         "name": "(UTC+04:00) Abu Dhabi, Muscat",
         "utc": "+04:00"
     },
     {
-        "label": "Baku (UTC+04:00)",
+        "label": "Asia/Baku (UTC+04:00)",
         "tzCode": "Asia/Baku",
         "name": "(UTC+04:00) Baku",
         "utc": "+04:00"
     },
     {
-        "label": "Port Louis (UTC+04:00)",
+        "label": "Indian/Mahe (UTC+04:00)",
         "tzCode": "Indian/Mahe",
         "name": "(UTC+04:00) Port Louis",
         "utc": "+04:00"
     },
     {
-        "label": "Samara, Ulyanovsk, Saratov (UTC+04:00)",
+        "label": "Europe/Astrakhan (UTC+04:00)",
         "tzCode": "Europe/Astrakhan",
         "name": "(UTC+04:00) Samara, Ulyanovsk, Saratov",
         "utc": "+04:00"
     },
     {
-        "label": "Tbilisi (UTC+04:00)",
+        "label": "Asia/Tbilisi (UTC+04:00)",
         "tzCode": "Asia/Tbilisi",
         "name": "(UTC+04:00) Tbilisi",
         "utc": "+04:00"
     },
     {
-        "label": "Yerevan (UTC+04:00)",
+        "label": "Asia/Yerevan (UTC+04:00)",
         "tzCode": "Asia/Yerevan",
         "name": "(UTC+04:00) Yerevan",
         "utc": "+04:00"
     },
     {
-        "label": "Kabul (UTC+04:30)",
+        "label": "Asia/Kabul (UTC+04:30)",
         "tzCode": "Asia/Kabul",
         "name": "(UTC+04:30) Kabul",
         "utc": "+04:30"
     },
     {
-        "label": "Ashgabat, Tashkent (UTC+05:00)",
+        "label": "Antarctica/Mawson (UTC+05:00)",
         "tzCode": "Antarctica/Mawson",
         "name": "(UTC+05:00) Ashgabat, Tashkent",
         "utc": "+05:00"
     },
     {
-        "label": "Astana (UTC+05:00)",
+        "label": "Antarctica/Vostok (UTC+05:00)",
         "tzCode": "Antarctica/Vostok",
         "name": "(UTC+05:00) Astana",
         "utc": "+05:00"
     },
     {
-        "label": "Islamabad, Karachi (UTC+05:00)",
+        "label": "Asia/Karachi (UTC+05:00)",
         "tzCode": "Asia/Karachi",
         "name": "(UTC+05:00) Islamabad, Karachi",
         "utc": "+05:00"
     },
     {
-        "label": "Yekaterinburg (UTC+05:00)",
+        "label": "Asia/Yekaterinburg (UTC+05:00)",
         "tzCode": "Asia/Yekaterinburg",
         "name": "(UTC+05:00) Yekaterinburg",
         "utc": "+05:00"
     },
     {
-        "label": "Chennai, Kolkata, Mumbai, New Delhi (UTC+05:30)",
+        "label": "Asia/Kolkata (UTC+05:30)",
         "tzCode": "Asia/Kolkata",
         "name": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
         "utc": "+05:30"
     },
     {
-        "label": "Sri Jayawardenepura (UTC+05:30)",
+        "label": "Asia/Colombo (UTC+05:30)",
         "tzCode": "Asia/Colombo",
         "name": "(UTC+05:30) Sri Jayawardenepura",
         "utc": "+05:30"
     },
     {
-        "label": "Dhaka (UTC+06:00)",
+        "label": "Asia/Dhaka (UTC+06:00)",
         "tzCode": "Asia/Dhaka",
         "name": "(UTC+06:00) Dhaka",
         "utc": "+06:00"
     },
     {
-        "label": "Omsk (UTC+06:00)",
+        "label": "Asia/Omsk (UTC+06:00)",
         "tzCode": "Asia/Omsk",
         "name": "(UTC+06:00) Omsk",
         "utc": "+06:00"
     },
     {
-        "label": "Yangon (Rangoon) (UTC+06:30)",
+        "label": "Asia/Rangoon (UTC+06:30)",
         "tzCode": "Asia/Rangoon",
         "name": "(UTC+06:30) Yangon (Rangoon)",
         "utc": "+06:30"
     },
     {
-        "label": "Bangkok, Hanoi, Jakarta (UTC+07:00)",
+        "label": "Antarctica/Davis (UTC+07:00)",
         "tzCode": "Antarctica/Davis",
         "name": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
         "utc": "+07:00"
     },
     {
-        "label": "Krasnoyarsk (UTC+07:00)",
+        "label": "Asia/Krasnoyarsk (UTC+07:00)",
         "tzCode": "Asia/Krasnoyarsk",
         "name": "(UTC+07:00) Krasnoyarsk",
         "utc": "+07:00"
     },
     {
-        "label": "Novosibirsk (UTC+07:00)",
+        "label": "Asia/Novokuznetsk (UTC+07:00)",
         "tzCode": "Asia/Novokuznetsk",
         "name": "(UTC+07:00) Novosibirsk",
         "utc": "+07:00"
     },
     {
-        "label": "Beijing, Chongqing, Hong Kong, Urumqi (UTC+08:00)",
+        "label": "Asia/Hong_Kong (UTC+08:00)",
         "tzCode": "Asia/Hong_Kong",
         "name": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
         "utc": "+08:00"
     },
     {
-        "label": "Irkutsk (UTC+08:00)",
+        "label": "Asia/Irkutsk (UTC+08:00)",
         "tzCode": "Asia/Irkutsk",
         "name": "(UTC+08:00) Irkutsk",
         "utc": "+08:00"
     },
     {
-        "label": "Kuala Lumpur, Singapore (UTC+08:00)",
+        "label": "Asia/Brunei (UTC+08:00)",
         "tzCode": "Asia/Brunei",
         "name": "(UTC+08:00) Kuala Lumpur, Singapore",
         "utc": "+08:00"
     },
     {
-        "label": "Perth (UTC+08:00)",
+        "label": "Antarctica/Casey (UTC+08:00)",
         "tzCode": "Antarctica/Casey",
         "name": "(UTC+08:00) Perth",
         "utc": "+08:00"
     },
     {
-        "label": "Taipei (UTC+08:00)",
+        "label": "Asia/Taipei (UTC+08:00)",
         "tzCode": "Asia/Taipei",
         "name": "(UTC+08:00) Taipei",
         "utc": "+08:00"
     },
     {
-        "label": "Ulaanbaatar (UTC+08:00)",
+        "label": "Asia/Choibalsan (UTC+08:00)",
         "tzCode": "Asia/Choibalsan",
         "name": "(UTC+08:00) Ulaanbaatar",
         "utc": "+08:00"
     },
     {
-        "label": "Osaka, Sapporo, Tokyo (UTC+09:00)",
+        "label": "Asia/Dili (UTC+09:00)",
         "tzCode": "Asia/Dili",
         "name": "(UTC+09:00) Osaka, Sapporo, Tokyo",
         "utc": "+09:00"
     },
     {
-        "label": "Seoul (UTC+09:00)",
+        "label": "Asia/Pyongyang (UTC+09:00)",
         "tzCode": "Asia/Pyongyang",
         "name": "(UTC+09:00) Seoul",
         "utc": "+09:00"
     },
     {
-        "label": "Yakutsk (UTC+09:00)",
+        "label": "Asia/Chita (UTC+09:00)",
         "tzCode": "Asia/Chita",
         "name": "(UTC+09:00) Yakutsk",
         "utc": "+09:00"
     },
     {
-        "label": "Adelaide (UTC+09:30)",
+        "label": "Australia/Adelaide (UTC+09:30)",
         "tzCode": "Australia/Adelaide",
         "name": "(UTC+09:30) Adelaide",
         "utc": "+09:30"
     },
     {
-        "label": "Darwin (UTC+09:30)",
+        "label": "Australia/Darwin (UTC+09:30)",
         "tzCode": "Australia/Darwin",
         "name": "(UTC+09:30) Darwin",
         "utc": "+09:30"
     },
     {
-        "label": "Brisbane (UTC+10:00)",
+        "label": "Australia/Brisbane (UTC+10:00)",
         "tzCode": "Australia/Brisbane",
         "name": "(UTC+10:00) Brisbane",
         "utc": "+10:00"
     },
     {
-        "label": "Canberra, Melbourne, Sydney (UTC+10:00)",
+        "label": "Australia/Melbourne (UTC+10:00)",
         "tzCode": "Australia/Melbourne",
         "name": "(UTC+10:00) Canberra, Melbourne, Sydney",
         "utc": "+10:00"
     },
     {
-        "label": "Guam, Port Moresby (UTC+10:00)",
+        "label": "Antarctica/DumontDUrville (UTC+10:00)",
         "tzCode": "Antarctica/DumontDUrville",
         "name": "(UTC+10:00) Guam, Port Moresby",
         "utc": "+10:00"
     },
     {
-        "label": "Hobart (UTC+10:00)",
+        "label": "Australia/Currie (UTC+10:00)",
         "tzCode": "Australia/Currie",
         "name": "(UTC+10:00) Hobart",
         "utc": "+10:00"
     },
     {
-        "label": "Vladivostok (UTC+10:00)",
+        "label": "Asia/Sakhalin (UTC+10:00)",
         "tzCode": "Asia/Sakhalin",
         "name": "(UTC+10:00) Vladivostok",
         "utc": "+10:00"
     },
     {
-        "label": "Magadan (UTC+11:00)",
+        "label": "Asia/Anadyr (UTC+11:00)",
         "tzCode": "Asia/Anadyr",
         "name": "(UTC+11:00) Magadan",
         "utc": "+11:00"
     },
     {
-        "label": "Solomon Is., New Caledonia (UTC+11:00)",
+        "label": "Antarctica/Macquarie (UTC+11:00)",
         "tzCode": "Antarctica/Macquarie",
         "name": "(UTC+11:00) Solomon Is., New Caledonia",
         "utc": "+11:00"
     },
     {
-        "label": "Auckland, Wellington (UTC+12:00)",
+        "label": "Antarctica/McMurdo (UTC+12:00)",
         "tzCode": "Antarctica/McMurdo",
         "name": "(UTC+12:00) Auckland, Wellington",
         "utc": "+12:00"
     },
     {
-        "label": "Coordinated Universal Time+12 (UTC+12:00)",
+        "label": "Etc/GMT-12 (UTC+12:00)",
         "tzCode": "Etc/GMT-12",
         "name": "(UTC+12:00) Coordinated Universal Time+12",
         "utc": "+12:00"
     },
     {
-        "label": "Fiji (UTC+12:00)",
+        "label": "Pacific/Fiji (UTC+12:00)",
         "tzCode": "Pacific/Fiji",
         "name": "(UTC+12:00) Fiji",
         "utc": "+12:00"
     },
     {
-        "label": "Petropavlovsk-Kamchatsky - Old (UTC+12:00)",
+        "label": "Asia/Kamchatka (UTC+12:00)",
         "tzCode": "Asia/Kamchatka",
         "name": "(UTC+12:00) Petropavlovsk-Kamchatsky - Old",
         "utc": "+12:00"
     },
     {
-        "label": "Nuku'alofa (UTC+13:00)",
+        "label": "Etc/GMT-13 (UTC+13:00)",
         "tzCode": "Etc/GMT-13",
         "name": "(UTC+13:00) Nuku'alofa",
         "utc": "+13:00"
     },
     {
-        "label": "Samoa (UTC+13:00)",
+        "label": "Pacific/Apia (UTC+13:00)",
         "tzCode": "Pacific/Apia",
         "name": "(UTC+13:00) Samoa",
         "utc": "+13:00"
